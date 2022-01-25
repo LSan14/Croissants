@@ -31,9 +31,9 @@ a {
   color: rgb(0, 255, 179);
 }
 
-.img-croissant {
+.croissant-photo {
   width: 50%;
-  border-radius: 70%;
+  border-radius: 50%;
   border: 1px solid black;
   box-shadow: 5px;
 }
